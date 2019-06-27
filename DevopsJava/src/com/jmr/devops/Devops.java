@@ -6,6 +6,7 @@ public class Devops {
 		System.out.println("Devops Project test");
 		System.out.println("Devops eclipse to github");
 		System.out.println("Integration with Genkins Test2");
+		System.out.println("Integration with Genkins Test3");
 	}
 
 }
